@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\StevensUser\.android\build-cache\582a25fb839ee55d143e58b35c5b3c506de27b01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fb4c42d59de987064f54a763ab0d8b7ba707992\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StevensUser\.android\build-cache\a6201a119db8b5290659543ce573c7c4697737b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_147bb4bcff6f9317e2a8547ff7f0ffcfade3630c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StevensUser\.android\build-cache\805f377d4eb4cc9a1f8186b914a098dde381648c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a14a450dc522512f260619a54bed3e898f9fa8d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="27fb561ee09bbaacd19592f93815a1e010846c95">
+        <dex dex="C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2b31b62e8273ac7298f9584617cb267aee51c845\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3fcfa6c27e8e86f2c5fd193f0b44d32bbc0c8c01\classes.dex" />
+    </item>
+
+</items>

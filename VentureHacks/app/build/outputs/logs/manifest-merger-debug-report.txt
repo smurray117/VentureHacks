@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\StevensUser\.android\build-cache\582a25fb839ee55d143e58b35c5b3c506de27b01\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\StevensUser\.android\build-cache\4d068a5220ab513a53a665258530caf5d14419b4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\StevensUser\.android\build-cache\b4115cb66969b346f4d2adfee6ae80403d1662bc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\StevensUser\.android\build-cache\10694389209e4d0cfce2f9ee0d793eac23a93621\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\StevensUser\.android\build-cache\805f377d4eb4cc9a1f8186b914a098dde381648c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\StevensUser\.android\build-cache\8bf31e1607d8f1c8b5f3ce63adb3c2dfb7a89f0a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\StevensUser\.android\build-cache\f1c63115190f01ff1a4d0372204658301c2dd35d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\StevensUser\.android\build-cache\29596be669bf6bc320b71f71adc272b2bb0954ff\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\StevensUser\.android\build-cache\e8df19d497b63e9e2a1c702d783e1fca92aa4897\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\StevensUser\.android\build-cache\15d69bc9e68c943a665d15bc7b101d2591278e9c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\StevensUser\.android\build-cache\756e511f7a488700d60322a8ed866461010470cc\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.stevensuser.venturehacks.ScrollingActivity
+ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:13:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.stevensuser.venturehacks.Asia
+ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:parentActivityName
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:23:13-60
+	android:name
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:22:19-39
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:25:13-27:54
+	android:value
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:27:17-51
+	android:name
+		ADDED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml:26:17-63
+uses-sdk
+INJECTED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\StevensUser\.android\build-cache\582a25fb839ee55d143e58b35c5b3c506de27b01\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\StevensUser\.android\build-cache\4d068a5220ab513a53a665258530caf5d14419b4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\StevensUser\.android\build-cache\b4115cb66969b346f4d2adfee6ae80403d1662bc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\StevensUser\.android\build-cache\10694389209e4d0cfce2f9ee0d793eac23a93621\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\StevensUser\.android\build-cache\a6201a119db8b5290659543ce573c7c4697737b8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\StevensUser\.android\build-cache\805f377d4eb4cc9a1f8186b914a098dde381648c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\StevensUser\.android\build-cache\8bf31e1607d8f1c8b5f3ce63adb3c2dfb7a89f0a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\StevensUser\.android\build-cache\f1c63115190f01ff1a4d0372204658301c2dd35d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\StevensUser\.android\build-cache\29596be669bf6bc320b71f71adc272b2bb0954ff\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\StevensUser\.android\build-cache\e8df19d497b63e9e2a1c702d783e1fca92aa4897\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\StevensUser\.android\build-cache\15d69bc9e68c943a665d15bc7b101d2591278e9c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\StevensUser\.android\build-cache\756e511f7a488700d60322a8ed866461010470cc\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\StevensUser\.android\build-cache\582a25fb839ee55d143e58b35c5b3c506de27b01\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\StevensUser\AndroidStudioProjects\VentureHacks\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\StevensUser\.android\build-cache\582a25fb839ee55d143e58b35c5b3c506de27b01\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\StevensUser\.android\build-cache\4d068a5220ab513a53a665258530caf5d14419b4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\StevensUser\.android\build-cache\b4115cb66969b346f4d2adfee6ae80403d1662bc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\StevensUser\.android\build-cache\10694389209e4d0cfce2f9ee0d793eac23a93621\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\StevensUser\.android\build-cache\a6201a119db8b5290659543ce573c7c4697737b8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\StevensUser\.android\build-cache\805f377d4eb4cc9a1f8186b914a098dde381648c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\StevensUser\.android\build-cache\8bf31e1607d8f1c8b5f3ce63adb3c2dfb7a89f0a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\StevensUser\.android\build-cache\f1c63115190f01ff1a4d0372204658301c2dd35d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\StevensUser\.android\build-cache\29596be669bf6bc320b71f71adc272b2bb0954ff\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\StevensUser\.android\build-cache\e8df19d497b63e9e2a1c702d783e1fca92aa4897\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\StevensUser\.android\build-cache\15d69bc9e68c943a665d15bc7b101d2591278e9c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\StevensUser\.android\build-cache\756e511f7a488700d60322a8ed866461010470cc\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\StevensUser\.android\build-cache\582a25fb839ee55d143e58b35c5b3c506de27b01\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\StevensUser\.android\build-cache\582a25fb839ee55d143e58b35c5b3c506de27b01\output\AndroidManifest.xml:26:9-47
